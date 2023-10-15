@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @fabrhub
-- 🌱 I’m currently ✨ learning ✨
-- 📫 How to reach me: www.brimdeep.it
+- 👋 Hi, I’m @fabrhub (a.k.a. fabriminal)
+- 🌱 I’m currently ✨ wandering ✨
+- 📫 How to reach me: fabriminal.vercel.app
